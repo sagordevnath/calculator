@@ -19,7 +19,7 @@ h1 {
     align-items: center;
 }
 .calculator {
-    background-color: rgb(255, 255, 255);
+    background-color: #aeebd8;;
     padding: 25px;
     border-radius: 30px;
     box-shadow: inset 5px 5px 12px #ffffff,
@@ -32,11 +32,10 @@ input{
     grid-column: span 4;
     height: 80px;
     width: 260px;
-    background-color: rgb(255, 255, 255);
-    box-shadow: inset -5px -5px 12px #ffffff,
-                      5px 5px 12px #8a7979;
+    background-color: #D1D8EC;
+    box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
     border: none;
-    border-radius: 30px;
+    border-radius: 20px;
     color: rgb(51, 47, 47);
     font-size: 30px;
     text-align: right;
@@ -49,11 +48,10 @@ input{
 button {
     height: 48px;
     width: 48px;
-    background-color: rgb(255, 255, 255);
-    box-shadow: inset -5px -5px 12px #ffffff,
-                      5px 5px 12px #4e4b4b;
+    background-color: #D1D8EC;;
+    box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
     border: none;
-    border-radius: 50%;    
+    border-radius: 66px;    
     font-size: 16px;
     margin: 8px;
     font-size: 16px;
@@ -61,8 +59,7 @@ button {
 .equal{
     width: 115px;
     border-radius: 40px;
-    background-color: rgb(255, 255, 255);
-    box-shadow: inset -5px -5px 12px #ffffff,
-                      5px 5px 12px #000000;
+    background-color: #D1D8EC;
+    box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff
 
 }
